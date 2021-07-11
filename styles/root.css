@@ -33,10 +33,14 @@ a {
 	margin-right: 1em;
 }
 
-.small-margin-left {
+.small-margin-right:hover{
+	vertical-align: middle;
+/*	margin-left: 1em;*/
+}
+/*.small-margin-left {
 	margin-left: 1em;
 }
-
+*/
 .medium-margin-bottom {
 	margin-bottom: 3em;
 }
