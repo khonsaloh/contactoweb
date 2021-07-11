@@ -3,7 +3,7 @@
 .vertical-middle{
    vertical-align: middle;
 }
-
+/*
 body {
 	margin-left: auto;
 	margin-right: auto;
@@ -15,7 +15,7 @@ body {
 	color: #efedef;
 	font-family: 'Fira Sans', sans-serif;
 }
-
+*/
 a {
 	color: #268BD2;
 	text-decoration: none;
@@ -25,9 +25,10 @@ a {
 	text-align: center;
 }
 
-.tiny-margin-bottom {
+/*.tiny-margin-bottom {
 	margin-bottom: 0.5em;
 }
+*/
 
 .small-margin-right {
 	margin-right: 1em;
@@ -41,11 +42,14 @@ a {
 	margin-left: 1em;
 }
 */
+/*
 .medium-margin-bottom {
 	margin-bottom: 3em;
 }
-
+*/
+/*
 .ul-clean {
 	list-style-type: none;
 	padding-inline-start: 20px;
 }
+*/
